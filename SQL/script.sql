@@ -1,9 +1,9 @@
 #------------------------------------------------------------
 #        Script MySQL.
 #------------------------------------------------------------
-DROP DATABASE IF EXISTS CDA;
-CREATE DATABASE IF NOT EXISTS `CDA` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
-USE `CDA`;
+DROP DATABASE IF EXISTS 'cdagheeraert';
+CREATE DATABASE IF NOT EXISTS `cdagheeraert` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+USE `cdagheeraert`;
 
 
 
